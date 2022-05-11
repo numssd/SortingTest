@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SortingTest</string>
+    <string name="write_size_text">Введите число больше</string>
+    <string name="time_text">Time</string>
+    <string name="bubble_sort_name_button">BubbleSort</string>
+    <string name="insertion_sort_name_button">InsertionSort</string>
+    <string name="selection_sort_name_button">SelectionSort</string>
+    <string name="write_size_hint">Введите длину</string>
+    <string name="description_text">Введите в поле количество чисел в списке, после выберете метод соритровки</string>
+</resources>
